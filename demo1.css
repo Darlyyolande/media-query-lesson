@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    height: 100%;
 }
 
 header {
@@ -57,7 +57,7 @@ main section img {
     margin: 0.5em;
 }
 
-footer {
+.footer {
     background-color: #333;
     color: white;
     text-align: center;
